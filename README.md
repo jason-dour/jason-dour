@@ -6,5 +6,6 @@
   * Dice :game_die:
 * :books: **Learning**
   * Rust
+  * GCP
   * Terraform
   * Kubernetes
