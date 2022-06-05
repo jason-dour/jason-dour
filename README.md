@@ -1,10 +1,10 @@
-* :heart:
+* :heart: **Love**
   * Golang
   * Python
   * AWS
   * Docker
   * Dice :game_die:
-* :books:
+* :books: **Learning**
   * Rust
   * Terraform
   * Kubernetes
