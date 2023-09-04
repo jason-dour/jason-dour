@@ -2,10 +2,10 @@
   * Golang
   * Python
   * AWS
+  * GCP
+  * Terraform
   * Docker
   * Dice :game_die:
 * :books: **Learning**
   * Rust
-  * GCP
-  * Terraform
   * Kubernetes
